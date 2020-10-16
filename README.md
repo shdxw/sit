@@ -10,3 +10,8 @@ HTTP/1.1 200 OK, заметил интересный заголовок Vary Acc
 На нем можно потренироваться с запросами и в целом с REST api.
 Еще посмотрел https://my.firstvds.ru, https://refactoring.guru – использует сервер cloudflare
 
+Общение по http
+отправка сообщения https://prnt.sc/v0dvoa
+прослушка порта 2424 и получение сообщения на удаленной машине: https://prnt.sc/v0dwco
+скачивание картинки на удаленной машине с помощью wget https://prnt.sc/v0dzcg
+
